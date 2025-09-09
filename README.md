@@ -1,5 +1,4 @@
-- 👋 Hii, I'm Gauri Dawar
-- 📖 Currently pursuing BCA at Christ University, Bangalore
-- 🌱 I’m currently learning App Development
-- 🤔 I’m looking forward to collaborations on exciting projects
-- 📫 Reach me at gauridawar2003@gmail.com
+👋 Hii, I'm Gauri Dawar
+💻 Full Stack Developer at Emo Energy | BCA Graduate with Distinction (Christ University, Bangalore)
+🚀 Interested in building scalable apps, data-driven solutions & impactful projects
+📫 Reach me at: gauridawar2003@gmail.com
