@@ -1,4 +1,4 @@
-👋 Hii, I'm Gauri Dawar
-💻 Full Stack Developer at Emo Energy | BCA Graduate with Distinction (Christ University, Bangalore)
-🚀 Interested in building scalable apps, data-driven solutions & impactful projects
-📫 Reach me at: gauridawar2003@gmail.com
+-👋 Hii, I'm Gauri Dawar
+-💻 Full Stack Developer at Emo Energy | BCA Graduate with Distinction (Christ University, Bangalore)
+-🚀 Interested in building scalable apps, data-driven solutions & impactful projects
+-📫 Reach me at: gauridawar2003@gmail.com
